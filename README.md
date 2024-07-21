@@ -1,0 +1,2 @@
+# jezero
+Independent autonomous device
